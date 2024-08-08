@@ -1,0 +1,49 @@
+.page {
+  font-family: 'IBM Plex mono', sans-serif;
+  font-size: 18px;
+  line-height: 23.4px;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  background-image: var(--cover-image);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  background-attachment: fixed;
+  inline-size: calc(100% - 20px);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media screen and (min-width: 768px) {
+
+  .page {
+    width: calc(100% - 40px);
+  }
+}
+
+.accented-link {
+  color: var(--secondary-color);
+  text-decoration: none;
+  text-shadow: 2px 1px 0 var(--accent-color);
+}
+
+.accented-link:hover {
+  border-bottom: 1px solid var(--text-color);
+  padding: 0;
+}
+
+.accented-link:focus {
+  outline: none;
+}
+
+.accented-link:focus-visible {
+  outline: 1px solid var(--text-color);
+}
+
+.title-decor {
+  color: var(--accent-color-background);
+  font-weight: bold;
+  background-color: var(--accent-color);
+}
