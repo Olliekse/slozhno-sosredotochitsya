@@ -31,6 +31,6 @@ This project is a web-based application that tests and challenges the user's abi
 ## Usage
 
 
-https://olliekse.github.io/slozhno-sosredotochitsya/
+Project repo: https://github.com/Olliekse/slozhno-sosredotochitsya
 
-https://drive.google.com/file/d/1yZLIed27GWOqOCc72jJoxfi0Sj6YqlIS/view?usp=drive_link
+Scrrenshots: https://drive.google.com/file/d/1yZLIed27GWOqOCc72jJoxfi0Sj6YqlIS/view?usp=drive_link
