@@ -6,7 +6,6 @@
 }
 
 @media screen and (min-width: 768px) {
-
   .header {
     margin: 20px 0 0;
   }
@@ -38,7 +37,6 @@
 }
 
 @media screen and (min-width: 768px) {
-
   .header__rec {
     margin-inline-end: 10px;
   }
@@ -50,18 +48,6 @@
 
 .decorated-zone {
   position: relative;
-}
-
-@media (min-width: 768px) {
-
-  .decorated-zone {
-  }
-}
-
-@media (min-width: 1024px) {
-
-  .decorated-zone {
-  }
 }
 
 .decorated-zone::before {
@@ -92,14 +78,12 @@
 }
 
 @media screen and (min-width: 768px) {
-
   .header__theme-menu {
     margin: 172px 0 0;
   }
 }
 
 @media screen and (min-width: 1024px) {
-
   .header__theme-menu {
     justify-self: center;
     margin: 0;
@@ -113,7 +97,6 @@
 }
 
 @media screen and (min-width: 1024px) {
-
   .header__theme-menu-list {
     grid-template-columns: repeat(3, 1fr);
   }
@@ -155,7 +138,6 @@
 }
 
 @media screen and (min-width: 768px) {
-
   .header__title {
     margin-block-start: 175px;
     margin-inline-start: -20px;
@@ -164,7 +146,6 @@
 }
 
 @media screen and (min-width: 1024px) {
-
   .header__title {
     margin-block-end: 114px;
     margin-block-start: 273px;
@@ -176,7 +157,6 @@
 }
 
 @media screen and (min-width: 768px) {
-
   .header__text {
     margin-inline-start: 365px;
     margin-block-start: 105px;
@@ -186,7 +166,6 @@
 }
 
 @media screen and (min-width: 1024px) {
-
   .header__text {
     margin-block-start: 0;
     margin-block-end: 114px;

@@ -4,7 +4,6 @@
 }
 
 @media screen and (min-width: 768px) {
-
   .what {
     margin: 60px 0 0;
     padding: 0;
@@ -17,7 +16,6 @@
 }
 
 @media screen and (min-width: 768px) {
-
   .what__title {
     margin-block-end: 20px;
     max-inline-size: 236px;
@@ -25,7 +23,6 @@
 }
 
 @media screen and (min-width: 1024px) {
-
   .what__title {
     color: var(--accent-color);
     max-inline-size: 315px;
@@ -37,11 +34,7 @@
   font-size: 18px;
 }
 
-.what__list {
-}
-
 @media screen and (min-width: 1024px) {
-
   .what__list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -49,15 +42,11 @@
   }
 }
 
-.what__list-item {
-}
-
 .what__list-title {
   margin-block-end: 10px;
 }
 
 @media screen and (min-width: 768px) {
-
   .what__list-title {
     margin-block-end: 0;
   }
@@ -70,7 +59,6 @@
 }
 
 @media screen and (min-width: 768px) {
-
   .what__list-text {
     margin-block-start: 10px;
   }

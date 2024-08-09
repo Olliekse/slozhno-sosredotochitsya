@@ -4,7 +4,6 @@
 }
 
 @media screen and (min-width: 768px) {
-
   .why {
     display: grid;
     grid-template-columns: 236px 1fr;
@@ -15,7 +14,6 @@
 }
 
 @media screen and (min-width: 1024px) {
-
   .why {
     grid-template-columns: 314px 1fr;
     margin: 82px 0 0;
