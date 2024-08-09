@@ -34,4 +34,4 @@ This project is a web-based application that tests and challenges the user's abi
 https://olliekse.github.io/slozhno-sosredotochitsya/src/index.html
 ```
 
-![screenshot](./src/screenshots/slozhno_sosredotochitsya_screens.png)
+![screenshot](https://github.com/Olliekse/slozhno-sosredotochitsya/blob/d7ca77fbbcad303d951f2718e785cb42bf92b26a/src/screenshots/Slozhno_Sosredotochitsya_screens.png)
