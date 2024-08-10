@@ -2,7 +2,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  min-block-size: 668px;
+  margin-block-start: 22px;
+  min-block-size: 667px;
   block-size: 100vh;
 }
 
@@ -15,8 +16,8 @@
 
 @media screen and (min-width: 1024px) {
   .footer {
-    padding: 0;
-    min-block-size: 767px;
+    padding-block-start: 380px;
+    min-block-size: 768px;
   }
 }
 
@@ -38,7 +39,7 @@
 
 @media screen and (min-width: 1024px) {
   .footer__text {
-    margin: 0;
+    margin-block-start: 0;
     padding: 0;
   }
 }
