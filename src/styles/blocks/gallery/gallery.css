@@ -39,7 +39,7 @@
   .gallery__list {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: repeat(3, fit-content);
+    grid-template-rows: repeat(3, min-content);
     gap: 20px;
   }
 
