@@ -1,4 +1,4 @@
-# Slozhno_Sosredotochitsya
+# Slozhno Sosredotochitsya
 
 An interactive web application designed to help users measure and improve their concentration skills.
 
@@ -33,4 +33,4 @@ This project is a web-based application that tests and challenges the user's abi
 
 Project repo: https://github.com/Olliekse/slozhno-sosredotochitsya
 
-Scrrenshots: https://drive.google.com/file/d/1yZLIed27GWOqOCc72jJoxfi0Sj6YqlIS/view?usp=drive_link
+Scrrenshots: https://drive.google.com/file/d/1X-60auvvKGSHJmccV7uZNqxqlwBr06ls/view?usp=sharing
