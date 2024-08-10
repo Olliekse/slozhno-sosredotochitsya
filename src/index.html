@@ -11,10 +11,10 @@
     <link rel="apple-touch-icon" href="./images/mobile-icon.png" />
     <!-- Tried to create a 'bundle.css' file using Gulp, but the page background disappears for some reason -->
     <link rel="stylesheet" href="./fonts/fonts.css" />
+    <link rel="stylesheet" href="./styles/globals.css" />
     <link rel="stylesheet" href="./styles/variables.css" />
     <link rel="stylesheet" href="./styles/dark.css" />
     <link rel="stylesheet" href="./styles/light.css" />
-    <link rel="stylesheet" href="./styles/globals.css" />
     <link rel="stylesheet" href="./styles/style.css" />
     <link rel="stylesheet" href="./styles/blocks/header/header.css" />
     <link rel="stylesheet" href="./styles/blocks/how/how.css" />
@@ -25,8 +25,8 @@
     <title>Сложно сосредоточиться</title>
   </head>
   <body class="page">
-    <header class="header decorated-zone">
-      <div aria-hidden="true" class="header__rec">REC</div>
+    <header class="header decorated-zone decorated-zone_type_header">
+      <span aria-hidden="true" class="header__rec">REC</span>
       <nav class="header__theme-menu">
         <ul class="header__theme-menu-list">
           <li class="header__theme-menu-item">
@@ -256,7 +256,7 @@
         </ul>
       </section>
     </main>
-    <footer class="footer decorated-zone">
+    <footer class="footer decorated-zone decorated-zone_type_footer">
       <p class="footer__text">focus</p>
     </footer>
     <script src="./scripts/script.js"></script>

@@ -1,6 +1,6 @@
 .what {
   margin: 50px 0 0;
-  padding: 0 10px;
+  padding: var(--padding-small);
 }
 
 @media screen and (min-width: 768px) {
@@ -12,7 +12,7 @@
 
 .what__title {
   margin-block-end: 20px;
-  color: var(--accent-color);
+  color: var(--text-color);
 }
 
 @media screen and (min-width: 768px) {
@@ -24,7 +24,6 @@
 
 @media screen and (min-width: 1024px) {
   .what__title {
-    color: var(--accent-color);
     max-inline-size: 315px;
   }
 }

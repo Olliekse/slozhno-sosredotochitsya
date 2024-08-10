@@ -1,6 +1,6 @@
 .how {
   margin: 50px 0 0;
-  padding: 0 10px;
+  padding: var(--padding-small);
 }
 
 @media screen and (min-width: 768px) {
@@ -22,7 +22,7 @@
 
 .how__heading {
   margin-block-end: 20px;
-  color: var(--accent-color);
+  color: var(--text-color);
 }
 
 .how__heading,
@@ -38,6 +38,7 @@
 .how__list-title {
   margin-block-end: 10px;
   color: var(--accent-color-background);
+  font-weight: normal;
 }
 
 .how__list-text {

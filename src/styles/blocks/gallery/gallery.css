@@ -1,19 +1,20 @@
 .gallery {
-  margin-block-start: 45px;
+  margin-block-start: 50px;
+  margin-block-end: 33px;
   padding: 0 10px;
 }
 
 @media (min-width: 768px) {
   .gallery {
     margin-block-start: 60px;
-    margin-block-end: 75px;
+    margin-block-end: 55px;
     padding: 0;
   }
 }
 
 @media (min-width: 1024px) {
   .gallery {
-    margin-block-end: 95px;
+    margin-block-end: 52px;
   }
 }
 
