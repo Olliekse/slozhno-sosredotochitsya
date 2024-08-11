@@ -69,7 +69,6 @@
   left: 10px;
   border-bottom: 1px solid var(--corner-decor-color);
   border-left: 1px solid var(--corner-decor-color);
-  block-size: max(100vh, 668px);
   inline-size: 25px;
   block-size: 25px;
 }
